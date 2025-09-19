@@ -1,2 +1,2 @@
 # lab2-project
-hello
+good
